@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <!--ebb: Need to rewrite XSLT to calculate dates from start to end of term. Non XSLT solution: To begin for a new year, autogenerate a list of dates and days of week in Excel (start with manually entering the first week's dates, and add +7 to each; format as ISO dates. 
+            Paste in template xml file and autotag day and week divs. 
+            Then manually correct with holidays and Fall Break, etc.-->
+         <titleStmt>
+            <title>Autumn 2016 Syllabus: Fantasy and Romance</title>
+            <author>Elisa E. Beshero-Bondar</author>
+
+            <sponsor>The University of Pittsburgh at Greensburg</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <edition>First digital edition in TEI, date: <date from="2016-08" to="2016-12">Fall
+                  2016</date>. P5.</edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>University of Pittsburgh at Greensburg</authority>
+            <pubPlace>Greensburg, PA, USA</pubPlace>
+            <date>2014</date>
+            <availability>
+               <licence>Distributed under a Creative Commons Attribution-ShareAlike 3.0 Unported
+                  License</licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p/>
+         </seriesStmt>
+         <sourceDesc>
+            <p>Born digital.</p>
+         </sourceDesc>
+
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="courseID" style="outer">
+            <head>Fantasy and Romance</head>
+            <p>Englit 1572</p>
+            <div type="meetTimes">
+               <p><hi rend="em">Autumn 2016:</hi> Classes meet M W 4:00 - 5:15 PM, 118 Powers
+                  Hall</p>
+              <!-- <p><hi rend="em">Course Website: <ref target="http://newtfire.org/19cBrit/">http://newtfire.org/19cBrit/</ref></hi></p>-->
+            </div>
+            <div type="CRN">
+               <p>Course Enrollment and Electives Info: </p>
+               <list>
+                  <item>Englit 1572: course registration number: <idno>29088</idno></item>
+                  <!--<item>Socsci 1031: 25980</item>-->
+                  <item>Satisfies the LT General Elective Requirement at Pitt-Greensburg and an R (Research) requirement for the Digital Studies Certificate.</item>
+               </list>
+            </div>
+            <div type="faculty">
+               <head>Instructor:</head>
+               <p>
+                  <ref target="http://www.pitt.edu/~ebb8/">Elisa Beshero-Bondar</ref></p>
+               <p>Office Hours (in FOB 204)</p>
+               <list>
+                  <item>Wed. 11:30 AM -12:30 PM</item>
+                  <item>Tues. 2-4 PM</item>
+                  <item>and by appointment.</item>
+               </list>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="description" style="main">
+            <head>Course Description</head>
+            <!--  <graphic url=""/>-->
+            <p>This course in literary history spans a busy century in Britain from the 1790s to
+               about 1900, a time of revolutionary transformation and rapid technological
+               development. We’ll learn about the emergence of Britain’s Romantic Movement in its
+               revolutionary historical context, and observe Romanticism’s lasting influence on the
+               writers of the Victorian era, named for the long reign of Britain’s Queen Victoria.
+               Writers of this time witnessed the development of public education systems and the
+               transformation of publishing technology to accommodate increasing numbers of literate
+               readers in England and across the expanding British empire. Aspiring poets and
+               novelists vied with each other to reach larger and larger markets. Many British
+               writers took seriously the idea that literature could help connect the rich and the
+               poor, and their writings address very serious social issues of the rapidly
+               modernizing nineteenth century. </p>
+            <p>These writers still speak to issues of our times. They addressed controversies
+               surrounding poverty, race relations, and women’s rights. They responded to scientific
+               debates over geological discoveries, as well as new theories of sexual selection and
+               survival of the fittest. They questioned humanity’s relation to nature, the way
+               emotions influence thinking, and what might happen to Britons living among people of
+               other cultures around the world. Over the next fifteen weeks, we will be discussing
+               how nineteenth-century British writers challenged the social conventions of their
+               times, and how they responded to the barriers of their time between wealth and
+               poverty, men and women, Britons and foreigners, nation and empire, at a time when
+               that empire stretched itself thin to span the world. Along the way we’ll consider why
+               the "antique" ideas, images, structures, and stories of nineteenth-century Britain
+               are still so appealing to many of us in the twenty-first century.</p>
+         </div>
+         <div type="objectives" style="main">
+            <head>Objectives:</head>
+            <list>
+               <item>Learn the contexts of nineteenth-century British literary history, its writers,
+                  genres, and movements </item>
+               <item>Learn to read poetry and prose as a dialogue with past contexts and current
+                  issues</item>
+               <item>Enhance your comprehension of the course material by engaging in class
+                  discussions, and by conducting your own conversation with the texts as you
+                  read</item>
+               <item>Research and write about literature in historical and cultural contexts</item>
+               <item>Gain experience in preparing informational resources about literature on the public web</item>
+            </list>
+         </div>
+         <div type="courseMtls" style="main">
+            <head>Texts to Purchase:</head>
+            <p>Our course texts are available at the campus bookstore as a shrink-wrapped package,
+               containing two Norton anthology volumes, and a free Norton edition of Mary Shelley’s
+               Frankenstein (a deal direct from the publisher): <hi rend="em">Package ISBN:
+                  978-0-393-91364-4</hi> This contains: </p>
+            <list type="numbered">
+               <item>Norton Anthology of English Literature, 9th ed., Vol. 9D (The Romantic
+                  Period)</item>
+               <item>Norton Anthology of English Literature, 9th ed., Vol. 9E (The Victorian
+                  Age)</item>
+               <item>free Norton edition of Mary Shelley, Frankenstein, ed. J. Paul Hunter, 2nd.
+                  edition</item>
+            </list>
+         </div>
+         <div type="grading" style="main">
+            <head>Grading:</head>
+            <p> Your grade will be based on Class Participation/Quizzes (10%), Short Papers (total: 20%), Three Digital Annotation Projects (total: 35%), two Midterm Exams (worth 10% each), and
+               one Final Exam (15%). At least 90% of the work for the course must be completed in
+               order to receive a passing grade (C or above).</p>
+            <div type="participation">
+               <head>Class Participation and In-Class Exercises: (15%)</head>
+               <p>This portion of your grade reflects the extent to which you attend class regularly
+                  and take an active role in class discussion, contributing thoughtful questions and
+                  observations based on the readings, as well as responding to my questions. It will
+                  also include your performance on any announced and unannounced quizzes and group
+                  exercises I may give in class. If you keep up with the readings listed on the
+                  schedule, and come to class each day prepared to discuss them, you will certainly
+                  do well with this component.</p>
+               <p> ** Note: Your attendance is vital to this course and your achievement in it. You
+                  may miss three classes for any reason without penalty, but your participation
+                  grade will be reduced for additional unexcused absences. You’ll also be missing
+                  information and perspective on the readings that will almost certainly affect your
+                  performance on assignments and exams. If you miss class, try to keep in touch with
+                  other members of the class to find out what you’ve missed and consult with me to
+                  help you catch up and to be sure you understand the material. Please note that
+                  quizzes and in-class activities cannot be made up outside of the classes you
+                  missed. </p>
+            </div>
+            <div type="weekly">
+               <head>Short Writings: (15%)</head>
+               <p>This portion of your grade is based on short
+                  (2-page) response papers, and/or discussion board posts.</p>
+             <!--  OLD Material from Fall 2014: <p><hi rend="em">Vocab/Context Logs (WLs): </hi> Submit on
+                  Courseweb a Log entry in which you compile and explain at least 3 to 5 unfamiliar
+                  words and/or contexts. Instructions:</p>
+               <list type="numbered">
+                  <item>Identify and locate the word or context using a line number in a poem, or a
+                     page, chapter, or section (for a web reading). Check the footnotes in your text
+                     or glosses along the sides of the page. If there is no gloss or footnote, or if
+                     these aren’t sufficient to understand the word or subject, record it in your
+                     log to research further:</item>
+                  <item>
+                     <list>
+                        <item>Find the most likely definition of words from the Oxford English
+                           Dictionary (Pitt Digital Library Database) that fits the passage or
+                           sentence from which you excerpted it. Provide what you think is the most
+                           likely and appropriate definition, quoting the relevant passages from the
+                           dictionary. </item>
+                        <item>For an unfamiliar phrase or context, try searching in Credo Reference
+                           (Pitt Digital Library Database) first before a Google search. Give a
+                           clear explanation in your own words.</item>
+                     </list></item>
+                  <item>Reflect and comment on how this word or topic fits within the part of the
+                     text it’s from: Consider its use in the surrounding grammatical unit
+                     (sentence), or paragraph or passage. Could there be more than one way to read
+                     this? Briefly explain. Logs must be your own individual work and must not be
+                     duplicated by others in the class. (See the section on Academic Dishonesty and
+                     Plagiarism below.) </item>
+               </list>-->
+               <p><hi rend="em">Response Papers (RPs): </hi> (typically 2 pages long) are designed
+                  to help you grapple with some challenging dimensions of our course readings, and
+                  should help you to strengthen your comprehension. They may also give you topic
+                  ideas for the major papers. Response Papers should follow MLA formatting and
+                  citation guidelines (as needed). Short writing assignments lose points for lateness.</p>
+            </div>
+            <div type="projects">
+               <head>Digital Annotation Research Assignments (10%, 10%, and 15%, for a total of 35%)</head>
+               <p>Over the course of the semester, you will work on three projects involving close analysis and research, applied as 
+                  annotation to produce online editions of our course readings. You will work with digital annotation tools
+                  to build web-based information resources of nineteenth-century literary texts available for public view, and produce a research paper to accompany your work as your major project for the class. 
+                  Detailed assignments for each project will be distributed in class and on Courseweb. Late project
+                  submissions will drop one grade notch (for example, from B to B-) for each day
+                  late.</p>
+            </div>
+            <div type="exams">
+               <head>Two Midterm Exams (10% each) and a Final Exam (15%):</head>
+               <p>The exams may consist of essay questions, identifications of passages, and brief
+                  responses regarding significant events and literary terms we have discussed in
+                  class. The Midterm will cover material from the first half of the course. The
+                  Final Exam, given during Finals Week, will have a comprehensive section, but will
+                  focus on material from the second half of the course. </p>
+            </div>
+            <div type="scale">
+               <head>Grading Scale:</head>
+               <p>Grades are posted on Courseweb, and follow this standard scale: A: 93-100%, A-:
+                  90-92%, B+: 87-89%, B: 83-86%, B-: 80-82%, C+: 77-79%, C: 73-76%, C-: 70-72%, D+:
+                  67-69%, D: 60-66%, F: 59% and below. In taking the course on a S / NC (pass-fail)
+                  basis, students must earn a C to receive Satisfactory credit. G grades
+                  (incomplete) may be given only in conformity with the University of Pittsburgh at
+                  Greensburg's Bulletin: <ref target="http://www.bulletins.pitt.edu/greensburg/upg-academicpolicies.htm">http://www.bulletins.pitt.edu/greensburg/upg-academicpolicies.htm</ref>.</p>
+            </div>
+         </div>
+
+         <div type="policies" style="main">
+            <div type="daily">
+               <head>Classes and Readings:</head>
+               <p>This class is fast paced with very challenging reading. To do well in this course
+                  it is vital that you attend class regularly and keep up with the readings! <hi rend="em">Read all the material assigned before class on the day it is
+                     scheduled</hi> so that you can discuss the material in class, raise questions
+                  about it, and intelligently respond to my questions and comments. <hi rend="em">Stay alert for any changes to the class schedule</hi>, which I will announce
+                  in class and online on Courseweb and e-mail. </p>
+            </div>
+            <div type="courtesy">
+               <head>Classroom Courtesy:</head>
+               <p>Our class is fast paced, and requires that we all be making the best use we can of
+                  our in-person class sessions. Arriving late and leaving early disrupts the
+                  important collective mental activity of class. So does in-class texting and
+                  checking your cell phone. While class is in progress, talking disruptively,
+                  leaving the classroom, texting or using a cell phone or computer, reading a
+                  newspaper, or other distracting behavior will be actively discouraged, and may
+                  result in a deduction in your Participation grade. Please respect what we do in
+                  the classroom: attend class regularly, and come prepared to contribute your
+                  questions and ideas.</p>
+               <p><hi rend="em">When an assignment is due,</hi> I expect that you will carefully
+                  edit and proofread your documents, and that you will turn in your assignments on
+                  time at the beginning of class or by the posted deadline for Courseweb
+                  assignments. If you need an extension, ask me courteously at least a day ahead of
+                  time. Do not ask for an extension on or after the day the paper is due.</p>
+            </div>
+            <div type="integrity">
+               <head>Academic Dishonesty and Plagiarism:</head>
+               <p><hi rend="em">Plagiarism</hi> falsely represents another source’s words or ideas
+                  as your own, and, if you commit plagiarism in this course, you will receive a
+                  final course grade of F and be reported to the Vice President of Academic Affairs.
+                  Representing the voice of another individual as your own voice constitutes
+                  plagiarism, however generous that person may be in "helping" you with an
+                  assignment. <hi rend="em">To avoid plagiarism,</hi> cite your sources whenever you
+                  quote, paraphrase, or summarize material, or use digital images from any outside
+                  source (including websites, articles, books, course readings, Courseweb postings,
+                  or someone else’s notes). Turning in an assignment generated collectively under
+                  the name of a single individual is considered plagiarism. When instructed to
+                  collaborate on a project, project collaborators share collective authorship and
+                  should identify themselves directly as a team. When using the "copy" and "paste"
+                  features as you read and research, be sure that you are carefully marking that
+                  these passages are unprocessed from their source, so that you know to process it
+                  later. Forgetting to do so not only produces sloppy work but (whether you intended
+                  it or not) results in a false representation. As long as you make a good faith and
+                  clear effort to cite your sources, you will not be faulted for plagiarism, but
+                  your work will be penalized if citations are inaccurate, unclear, or lack
+                  important information. <hi rend="em">Cheating</hi> on exams or exercises will also
+                  receive a final course grade of F and be reported to the Vice President of
+                  Academic Affairs.</p>
+            </div>
+            <div type="online" style="main">
+               <head>Online Policies: </head>
+               <div type="courseweb">
+                  <head>Courseweb (or Blackboard): </head>
+                  <p>My announcements, changes to the course schedule, assignments + online
+                     assignment submissions, some course readings, powerpoint notes, and review
+                     guides for this class will be regularly posted to Courseweb. Login to Courseweb
+                     using your Pitt userid and password (the same one you use for your e-mail). All
+                     courses you’re enrolled in that have Courseweb materials should be listed.
+                     Courseweb link: <ref target="https://courseweb.pitt.edu">https://courseweb.pitt.edu</ref></p>
+               </div>
+
+               <div type="submissions">
+                  <head>Turning in Assignments: Courseweb Upload</head>
+                  <p> Turn in your papers <hi rend="em">by electronic upload through Courseweb</hi>.
+                     We will be using the <hi rend="em">SafeAssign</hi> feature built into Courseweb
+                     as a stable, time-stamped electronic archive for your papers. <note>Note: In a
+                        crisis situation, you may send your paper to me by e-mail as an attachment,
+                        but you must follow up with me to be sure I received it, if you have not
+                        received a response from me in 24 hours!</note>
+                  </p>
+               </div>
+
+               <div type="email">
+                  <head>E-mail Correspondence: </head>
+                  <p>Send e-mail to me when you have questions or want to meet with me, but <hi rend="em">please identify yourself by name (first and last), and provide a
+                        Subject Line</hi> when you do so. I prefer you <hi rend="em">do not submit
+                        your papers to me by e-mail</hi>; see directions above for submitting
+                     assignments in print and online. </p>
+                  <p>Each student is issued a University email address (username@pitt.edu) upon
+                     admission. This email address may be used by the University for official
+                     communication with students. Students are expected to read email sent to this
+                     account on a regular basis. Failure to read and react to University
+                     communications in a timely manner does not absolve the student from knowing and
+                     complying with the content of the communications. The University provides an
+                     email forwarding service that allows students to read their email via other
+                     service providers (e.g., Hotmail, AOL, Yahoo). Students who choose to forward
+                     their email from their pitt.edu address to another address do so at their own
+                     risk. If email is lost as a result of forwarding, it does not absolve the
+                     student from responding to official communications sent to their University
+                     email address. To forward email sent to your University account, go to
+                     http://accounts.pitt.edu, log into your account, click on Edit Forwarding
+                     Addresses, and follow the instructions on the page. Be sure to log out of your
+                     account when you have finished. (For the full Email Communication Policy, go to
+                        <ref target="http://www.bc.pitt.edu/policies/policy/09/09-10-01.html">http://www.bc.pitt.edu/policies/policy/09/09-10-01.html</ref>.)</p>
+
+               </div>
+
+            </div>
+
+
+
+            <div type="disability">
+               <head>Disability Services:</head>
+               <p>If you have a disability for which you are or may be requesting an accommodation,
+                  you are encouraged to contact both your instructor and the Director of the
+                  Learning Resources Center, Dr. Lou Ann Sears, Room 240 Millstein Library Building
+                  (724) 836-7098 (voice) or los3 at pitt.edu as early as possible in the term.
+                  Learning Resources Center will verify your disability and determine reasonable
+                  accommodations for this course.</p>
+            </div>
+         </div>
+
+         <!--  <div type="resources"><head>outside resources, fun stuff of use or interest?</head></div>-->
+
+
+
+   <div type="schedule">
+    <div type="week" n="1">
+        <div type="day">
+            <head>
+                <date when="2016-08-29">M 08-29</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+        <div type="day">
+            <head>
+                <date when="2016-08-31">W 08-31</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+    </div>
+    <div type="week" n="2">
+        <div type="day">
+            <head>
+                <date when="2016-09-05">M 09-05</date>
+            </head>
+            <div type="inclass">
+               <p><hi rend="em">Labor Day Holiday: No classes.</hi></p>
+            </div>
+            <div type="assign"/>
+        </div>
+        <div type="day">
+            <head>
+                <date when="2016-09-07">W 09-07</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+    </div>
+    <div type="week" n="3">
+        <div type="day">
+            <head>
+                <date when="2016-09-12">M 09-12</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+        <div type="day">
+            <head>
+                <date when="2016-09-14">W 09-14</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+    </div>
+    <div type="week" n="4">
+        <div type="day">
+            <head>
+                <date when="2016-09-19">M 09-19</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+        <div type="day">
+            <head>
+                <date when="2016-09-21">W 09-21</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+    </div>
+    <div type="week" n="5">
+        <div type="day">
+            <head>
+                <date when="2016-09-26">M 09-26</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+        <div type="day">
+            <head>
+                <date when="2016-09-28">W 09-28</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+    </div>
+    <div type="week" n="6">
+        <div type="day">
+            <head>
+                <date when="2016-10-03">M 10-03</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+        <div type="day">
+            <head>
+                <date when="2016-10-05">W 10-05</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+    </div>
+    <div type="week" n="7">
+        <div type="day">
+            <head>
+                <date when="2016-10-10">M 10-10</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+        <div type="day">
+            <head>
+                <date when="2016-10-12">W 10-12</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+    </div>
+    <div type="week" n="8">
+        <div type="day">
+            <head>
+                <date when="2016-10-17">M 10-17</date>
+            </head>
+            <div type="inclass">
+               <p><hi rend="em">Fall Break: Monday classes meet on Tuesday this week.</hi></p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+       <div type="day">
+          <head>
+             <date when="2016-10-18">T 10-18</date>
+          </head>
+          <div type="inclass">
+             <p>. . . .</p>
+          </div>
+          <div type="assign">
+             <p>. . . .</p>
+          </div>
+       </div>
+        <div type="day">
+            <head>
+                <date when="2016-10-19">W 10-19</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+    </div>
+    <div type="week" n="9">
+        <div type="day">
+            <head>
+                <date when="2016-10-24">M 10-24</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+        <div type="day">
+            <head>
+                <date when="2016-10-26">W 10-26</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+    </div>
+    <div type="week" n="10">
+        <div type="day">
+            <head>
+                <date when="2016-10-31">M 10-31</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+        <div type="day">
+            <head>
+                <date when="2016-11-02">W 11-02</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+    </div>
+    <div type="week" n="11">
+        <div type="day">
+            <head>
+                <date when="2016-11-07">M 11-07</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+        <div type="day">
+            <head>
+                <date when="2016-11-09">W 11-09</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+    </div>
+    <div type="week" n="12">
+        <div type="day">
+            <head>
+                <date when="2016-11-14">M 11-14</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+        <div type="day">
+            <head>
+                <date when="2016-11-16">W 11-16</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+    </div>
+    <div type="week" n="13">
+        <div type="day">
+            <head>
+                <date when="2016-11-21">M 11-21</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+        <div type="day">
+            <head>
+                <date when="2016-11-23">W 11-23</date>
+            </head>
+            <div type="inclass">
+               <p><hi rend="em">Thanksgiving Recess: No Classes.</hi></p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+    </div>
+    <div type="week" n="14">
+        <div type="day">
+            <head>
+                <date when="2016-11-28">M 11-28</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+        <div type="day">
+            <head>
+                <date when="2016-11-30">W 11-30</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+    </div>
+    <div type="week" n="15">
+        <div type="day">
+            <head>
+                <date when="2016-12-05">M 12-05</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+        <div type="day">
+            <head>
+                <date when="2016-12-07">W 12-07</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+    </div>
+      <div type="week" n="16">
+         <head>Final Exam Period - December 12-17</head>
+         <div type="day">
+            <head><date when="2016-12-15">Final Exam Date: Thursday 12/15</date></head>
+            <div type="assign">
+               <p><hi rend="em">Final Examination: 1 PM in our classroom, 118 Powers Hall</hi></p>
+            </div>
+         </div>
+      </div>
+</div>
+
+      </body>
+   </text>
+</TEI>

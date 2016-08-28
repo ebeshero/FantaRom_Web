@@ -1,0 +1,362 @@
+<div type="schedule" style="outer">
+    <div type="week">
+        <div type="day">
+            <head>
+                <date when="2016-08-29">M 08-29</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+        <div type="day">
+            <head>
+                <date when="2016-08-31">W 08-31</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+    </div>
+    <div type="week">
+        <div type="day">
+            <head>
+                <date when="2016-09-05">M 09-05</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+        <div type="day">
+            <head>
+                <date when="2016-09-07">W 09-07</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+    </div>
+    <div type="week">
+        <div type="day">
+            <head>
+                <date when="2016-09-12">M 09-12</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+        <div type="day">
+            <head>
+                <date when="2016-09-14">W 09-14</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+    </div>
+    <div type="week">
+        <div type="day">
+            <head>
+                <date when="2016-09-19">M 09-19</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+        <div type="day">
+            <head>
+                <date when="2016-09-21">W 09-21</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+    </div>
+    <div type="week">
+        <div type="day">
+            <head>
+                <date when="2016-09-26">M 09-26</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+        <div type="day">
+            <head>
+                <date when="2016-09-28">W 09-28</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+    </div>
+    <div type="week">
+        <div type="day">
+            <head>
+                <date when="2016-10-03">M 10-03</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+        <div type="day">
+            <head>
+                <date when="2016-10-05">W 10-05</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+    </div>
+    <div type="week">
+        <div type="day">
+            <head>
+                <date when="2016-10-10">M 10-10</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+        <div type="day">
+            <head>
+                <date when="2016-10-12">W 10-12</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+    </div>
+    <div type="week">
+        <div type="day">
+            <head>
+                <date when="2016-10-17">M 10-17</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+        <div type="day">
+            <head>
+                <date when="2016-10-19">W 10-19</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+    </div>
+    <div type="week">
+        <div type="day">
+            <head>
+                <date when="2016-10-24">M 10-24</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+        <div type="day">
+            <head>
+                <date when="2016-10-26">W 10-26</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+    </div>
+    <div type="week">
+        <div type="day">
+            <head>
+                <date when="2016-10-31">M 10-31</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+        <div type="day">
+            <head>
+                <date when="2016-11-02">W 11-02</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+    </div>
+    <div type="week">
+        <div type="day">
+            <head>
+                <date when="2016-11-07">M 11-07</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+        <div type="day">
+            <head>
+                <date when="2016-11-09">W 11-09</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+    </div>
+    <div type="week">
+        <div type="day">
+            <head>
+                <date when="2016-11-14">M 11-14</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+        <div type="day">
+            <head>
+                <date when="2016-11-16">W 11-16</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+    </div>
+    <div type="week">
+        <div type="day">
+            <head>
+                <date when="2016-11-21">M 11-21</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+        <div type="day">
+            <head>
+                <date when="2016-11-23">W 11-23</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+    </div>
+    <div type="week">
+        <div type="day">
+            <head>
+                <date when="2016-11-28">M 11-28</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+        <div type="day">
+            <head>
+                <date when="2016-11-30">W 11-30</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+    </div>
+    <div type="week">
+        <div type="day">
+            <head>
+                <date when="2016-12-05">M 12-05</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+        <div type="day">
+            <head>
+                <date when="2016-12-07">W 12-07</date>
+            </head>
+            <div type="inclass">
+                <p>. . . .</p>
+            </div>
+            <div type="assign">
+                <p>. . . .</p>
+            </div>
+        </div>
+    </div>
+</div>
