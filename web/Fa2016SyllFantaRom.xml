@@ -2,7 +2,7 @@
 	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
-         <!--ebb: Need to rewrite XSLT to calculate dates from start to end of term. Non XSLT solution: To begin for a new year, autogenerate a list of dates and days of week in Excel (start with manually entering the first week's dates, and add +7 to each; format as ISO dates. 
+         <!--ebb: Need to rewrite XSLT to calculate dates from start to end of term. Non XSLT solution: To begin for a new year, autogenerate a list of dates and days of week in Excel (start with manually entering the first week’s dates, and add +7 to each; format as ISO dates. 
             Paste in template xml file and autotag day and week divs. 
             Then manually correct with holidays and Fall Break, etc.-->
          <titleStmt>
@@ -68,134 +68,65 @@
          <div type="description" style="main">
             <head>Course Description</head>
             <!--  <graphic url=""/>-->
-            <p>This course in literary history spans a busy century in Britain from the 1790s to
-               about 1900, a time of revolutionary transformation and rapid technological
-               development. We’ll learn about the emergence of Britain’s Romantic Movement in its
-               revolutionary historical context, and observe Romanticism’s lasting influence on the
-               writers of the Victorian era, named for the long reign of Britain’s Queen Victoria.
-               Writers of this time witnessed the development of public education systems and the
-               transformation of publishing technology to accommodate increasing numbers of literate
-               readers in England and across the expanding British empire. Aspiring poets and
-               novelists vied with each other to reach larger and larger markets. Many British
-               writers took seriously the idea that literature could help connect the rich and the
-               poor, and their writings address very serious social issues of the rapidly
-               modernizing nineteenth century. </p>
-            <p>These writers still speak to issues of our times. They addressed controversies
-               surrounding poverty, race relations, and women’s rights. They responded to scientific
-               debates over geological discoveries, as well as new theories of sexual selection and
-               survival of the fittest. They questioned humanity’s relation to nature, the way
-               emotions influence thinking, and what might happen to Britons living among people of
-               other cultures around the world. Over the next fifteen weeks, we will be discussing
-               how nineteenth-century British writers challenged the social conventions of their
-               times, and how they responded to the barriers of their time between wealth and
-               poverty, men and women, Britons and foreigners, nation and empire, at a time when
-               that empire stretched itself thin to span the world. Along the way we’ll consider why
-               the "antique" ideas, images, structures, and stories of nineteenth-century Britain
-               are still so appealing to many of us in the twenty-first century.</p>
+             <p>In its age-old context, the term romance refers to narratives that explore the unfamiliar, the wonderful, strange, and otherworldly. Romance takes us beyond the apparent limits of “reality” as we know it from our “home” culture, and can return us back to familiar ground in a way that helps us to perceive the world in a new way. Such narratives are the focus of this course. Our readings include centuries-old poetry and prose in translation from Europe and the Middle East, as well as twentieth-century and contemporary literature in the “fantasy” genre that draw upon centuries-old resources to build alternate realities for readers in our time. Our texts will show how ancient mythologies transform and take on new dimensions as they are shared and translated across cultures over centuries.</p>
+             <p>We will study how fantasy literature in our time builds on a worldly literary heritage to develop complex multicultural and pointedly unreal realms shared between writers and readers. We will consider how Faerie lands and alternate worlds develop with precise rules of their own to give believable life to the bizarre, the magical, the supernatural. In fantasy’s escapes from the familiar we may recognize our powerful abilities to invent new realities, made real by sharing with communities through text, image, film, game, and wired network. Through our shared alternate realities of fantasy and romance, we may gain perspective on our fears of death and change as well as our desires to escape and travel out of ourselves.</p>
          </div>
          <div type="objectives" style="main">
             <head>Objectives:</head>
             <list>
-               <item>Learn the contexts of nineteenth-century British literary history, its writers,
-                  genres, and movements </item>
-               <item>Learn to read poetry and prose as a dialogue with past contexts and current
-                  issues</item>
+                <item>Study contemporary fantasy literature in context with ancient and medieval texts and traditions.</item>
+                <item>Investigate how cultural transitions and cross-cultural exchange of narratives helps to generate alternate realms of “Faerie” and fantasy.</item>
                <item>Enhance your comprehension of the course material by engaging in class
                   discussions, and by conducting your own conversation with the texts as you
                   read</item>
-               <item>Research and write about literature in historical and cultural contexts</item>
-               <item>Gain experience in preparing informational resources about literature on the public web</item>
+                <item>Investigate the digital environments and research involved in the alternate world-building of fantasy in our time.</item>
+                <item>Enhance your reading comprehension by engaging in class discussions, and by conducting your own conversation with the texts as you read and write.</item>
             </list>
          </div>
          <div type="courseMtls" style="main">
             <head>Texts to Purchase:</head>
-            <p>Our course texts are available at the campus bookstore as a shrink-wrapped package,
-               containing two Norton anthology volumes, and a free Norton edition of Mary Shelley’s
-               Frankenstein (a deal direct from the publisher): <hi rend="em">Package ISBN:
-                  978-0-393-91364-4</hi> This contains: </p>
             <list type="numbered">
-               <item>Norton Anthology of English Literature, 9th ed., Vol. 9D (The Romantic
-                  Period)</item>
-               <item>Norton Anthology of English Literature, 9th ed., Vol. 9E (The Victorian
-                  Age)</item>
-               <item>free Norton edition of Mary Shelley, Frankenstein, ed. J. Paul Hunter, 2nd.
-                  edition</item>
+                <item><bibl><author role="translator">Seamus Heaney</author>, trans. <title level="m">Beowulf: A Verse Translation</title>, ed. <editor>Daniel Donoghue</editor> (<publisher>Norton Critical Edition</publisher>, <date>2002</date>) ISBN-13: <idno type="ISBN">978-0393-975802</idno>.</bibl></item>
+                <item><bibl><author>J. R. R. Tolkien</author>, <title level="m">The Tolkien Reader</title> (<publisher>Random House</publisher>, <date>1989</date>) ISBN: <idno type="ISBN">978-0-345-34506-6</idno>.</bibl></item>
+                <item><bibl><author>J. R. R. Tolkien</author>, <title level="m">Sir Gawain and the Green Knight, Pearl, and Sir Orfeo</title>, (<publisher>Random House</publisher>, <date>1975</date>) ISBN: <idno type="ISBN">978-0345277602</idno>.</bibl></item>
+                <item><bibl><author>J. R. R. Tolkien</author>, <title level="m">The Lord of the Rings</title>, <edition>50th Anniversary, One Vol. Edition</edition> (<publisher>Houghton Mifflin</publisher>, <date>2005</date>) ISBN: <idno type="ISBN">978-0618640157</idno>.</bibl></item>
+                <item><bibl><author role="translator">Jesse Byock</author>, trans. <title level="m">The Saga of the Volsungs</title> (<publisher>Penguin</publisher>, <date>2000</date>) ISBN: <idno type="ISBN">978-0140-44738-5</idno>.</bibl></item>
+                <item><bibl><author>Ursula K. Le Guin</author>, <title level="m">Tehanu</title> (<publisher>Simon Pulse</publisher>, <date>2001</date>) ISBN: <idno type="ISBN">978-0689845338</idno>.</bibl></item>
+                <item><bibl><author>Catherynne M. Valente</author>, <title level="m">The Orphan’s Tales: In the Night Garden</title> (<publisher>Bantam</publisher>, <date>2006</date>) ISBN: <idno type="ISBN">978-0553384031</idno>.</bibl></item>
+                <item><bibl><author>Linda Nagata</author>, <title level="m">Memory</title> (<publisher>Mythic Island Press LLC</publisher>, <date>2013</date>) ISBN: <idno type="ISBN">9781937197124</idno>.</bibl></item>
             </list>
+             <note>Other course readings and important information will be posted online on <ref target="http://courseweb.pitt.edu">CourseWeb</ref>.</note>
          </div>
          <div type="grading" style="main">
             <head>Grading:</head>
-            <p> Your grade will be based on Class Participation/Quizzes (10%), Short Papers (total: 20%), Three Digital Annotation Projects (total: 35%), two Midterm Exams (worth 10% each), and
-               one Final Exam (15%). At least 90% of the work for the course must be completed in
+            <p> Your grade will be based on Class Participation and In-Class Exercises (15%), Short Assignments (total: 25%), one Creative or Analytical Research Project (total: 20%), one Midterm Exam (total: 20%) and
+               one Final Exam (20%). At least 90% of the work for the course must be completed in
                order to receive a passing grade (C or above).</p>
             <div type="participation">
                <head>Class Participation and In-Class Exercises: (15%)</head>
-               <p>This portion of your grade reflects the extent to which you attend class regularly
-                  and take an active role in class discussion, contributing thoughtful questions and
-                  observations based on the readings, as well as responding to my questions. It will
-                  also include your performance on any announced and unannounced quizzes and group
-                  exercises I may give in class. If you keep up with the readings listed on the
-                  schedule, and come to class each day prepared to discuss them, you will certainly
-                  do well with this component.</p>
-               <p> ** Note: Your attendance is vital to this course and your achievement in it. You
+                <p>This portion of your grade reflects the extent to which you attend class regularly and take an active role in class discussion, contributing thoughtful questions and observations based on the readings, as well as responding to my questions. It will also include your performance on any announced and unannounced quizzes and group exercises I may give in class. If you keep up with the readings listed on the schedule, and come to class each day prepared to discuss them, you will certainly do well with this component.</p>
+               <p><hi rend="em">** Note:</hi> Your attendance is vital to this course and your achievement in it. You
                   may miss three classes for any reason without penalty, but your participation
                   grade will be reduced for additional unexcused absences. You’ll also be missing
                   information and perspective on the readings that will almost certainly affect your
                   performance on assignments and exams. If you miss class, try to keep in touch with
                   other members of the class to find out what you’ve missed and consult with me to
                   help you catch up and to be sure you understand the material. Please note that
-                  quizzes and in-class activities cannot be made up outside of the classes you
-                  missed. </p>
+                  quizzes and in-class activities are time-sensitive and cannot be made up outside of the classes you
+                  missed.</p>
             </div>
             <div type="weekly">
-               <head>Short Writings: (15%)</head>
-               <p>This portion of your grade is based on short
-                  (2-page) response papers, and/or discussion board posts.</p>
-             <!--  OLD Material from Fall 2014: <p><hi rend="em">Vocab/Context Logs (WLs): </hi> Submit on
-                  Courseweb a Log entry in which you compile and explain at least 3 to 5 unfamiliar
-                  words and/or contexts. Instructions:</p>
-               <list type="numbered">
-                  <item>Identify and locate the word or context using a line number in a poem, or a
-                     page, chapter, or section (for a web reading). Check the footnotes in your text
-                     or glosses along the sides of the page. If there is no gloss or footnote, or if
-                     these aren’t sufficient to understand the word or subject, record it in your
-                     log to research further:</item>
-                  <item>
-                     <list>
-                        <item>Find the most likely definition of words from the Oxford English
-                           Dictionary (Pitt Digital Library Database) that fits the passage or
-                           sentence from which you excerpted it. Provide what you think is the most
-                           likely and appropriate definition, quoting the relevant passages from the
-                           dictionary. </item>
-                        <item>For an unfamiliar phrase or context, try searching in Credo Reference
-                           (Pitt Digital Library Database) first before a Google search. Give a
-                           clear explanation in your own words.</item>
-                     </list></item>
-                  <item>Reflect and comment on how this word or topic fits within the part of the
-                     text it’s from: Consider its use in the surrounding grammatical unit
-                     (sentence), or paragraph or passage. Could there be more than one way to read
-                     this? Briefly explain. Logs must be your own individual work and must not be
-                     duplicated by others in the class. (See the section on Academic Dishonesty and
-                     Plagiarism below.) </item>
-               </list>-->
-               <p><hi rend="em">Response Papers (RPs): </hi> (typically 2 pages long) are designed
-                  to help you grapple with some challenging dimensions of our course readings, and
-                  should help you to strengthen your comprehension. They may also give you topic
-                  ideas for the major papers. Response Papers should follow MLA formatting and
-                  citation guidelines (as needed). Short writing assignments lose points for lateness.</p>
+               <head>Short Assignments: (25%)</head>
+                <p>Periodically throughout the semester, I will assign informal 2-3 page short response papers and/or other exercises, including exploring and writing about virtual environments based on literary texts. These exercises and short papers are designed to help you grapple with some challenging dimensions of our course readings, and should help you to strengthen your comprehension. They may also give you topic ideas for the major paper. Short papers should follow MLA formatting and citation guidelines (as needed). At the beginning or end of your paper, provide a relevant quote or two from the reading you’re discussing, a quote that helps to capture an idea you’re commenting on in your response.  Short writing assignments lose points for lateness.</p>
             </div>
             <div type="projects">
-               <head>Digital Annotation Research Assignments (10%, 10%, and 15%, for a total of 35%)</head>
-               <p>Over the course of the semester, you will work on three projects involving close analysis and research, applied as 
-                  annotation to produce online editions of our course readings. You will work with digital annotation tools
-                  to build web-based information resources of nineteenth-century literary texts available for public view, and produce a research paper to accompany your work as your major project for the class. 
-                  Detailed assignments for each project will be distributed in class and on Courseweb. Late project
-                  submissions will drop one grade notch (for example, from B to B-) for each day
-                  late.</p>
+               <head>Creative or Analytical Research Project: (20%)</head>
+                <p>One longer piece of writing, developed either as a paper or a digital project, applying fantasy criticism and theory, will be due in the second half of the course. Detailed project guidelines will be distributed in class. You will have an option to develop a fantasy narrative of your own working with (and reflecting on) materials from our course, or you may develop a research project investigating significant cultural, historical, or thematic issues in one or two of our course texts. This paper will be about 6-8 double-spaced pages, and must be your own, independent work (see the section on Academic Dishonesty below). Follow MLA formatting and citation guidelines. Note: Late projects will drop one grade notch (from B to B-) for each day late.</p>
             </div>
             <div type="exams">
-               <head>Two Midterm Exams (10% each) and a Final Exam (15%):</head>
+               <head>Midterm Exam: (20%) and Final Exam: (20%)</head>
                <p>The exams may consist of essay questions, identifications of passages, and brief
-                  responses regarding significant events and literary terms we have discussed in
+                  responses regarding significant events, terms, and concepts we have discussed in
                   class. The Midterm will cover material from the first half of the course. The
                   Final Exam, given during Finals Week, will have a comprehensive section, but will
                   focus on material from the second half of the course. </p>
@@ -207,7 +138,7 @@
                   67-69%, D: 60-66%, F: 59% and below. In taking the course on a S / NC (pass-fail)
                   basis, students must earn a C to receive Satisfactory credit. G grades
                   (incomplete) may be given only in conformity with the University of Pittsburgh at
-                  Greensburg's Bulletin: <ref target="http://www.bulletins.pitt.edu/greensburg/upg-academicpolicies.htm">http://www.bulletins.pitt.edu/greensburg/upg-academicpolicies.htm</ref>.</p>
+                  Greensburg’s Bulletin: <ref target="http://www.bulletins.pitt.edu/greensburg/upg-academicpolicies.htm">http://www.bulletins.pitt.edu/greensburg/upg-academicpolicies.htm</ref>.</p>
             </div>
          </div>
 
@@ -227,7 +158,7 @@
                   important collective mental activity of class. So does in-class texting and
                   checking your cell phone. While class is in progress, talking disruptively,
                   leaving the classroom, texting or using a cell phone or computer, reading a
-                  newspaper, or other distracting behavior will be actively discouraged, and may
+                  newspaper, or other distracting behavior will be actively discouraged, and will
                   result in a deduction in your Participation grade. Please respect what we do in
                   the classroom: attend class regularly, and come prepared to contribute your
                   questions and ideas.</p>
@@ -289,7 +220,7 @@
                   <p>Send e-mail to me when you have questions or want to meet with me, but <hi rend="em">please identify yourself by name (first and last), and provide a
                         Subject Line</hi> when you do so. I prefer you <hi rend="em">do not submit
                         your papers to me by e-mail</hi>; see directions above for submitting
-                     assignments in print and online. </p>
+                     assignments online. </p>
                   <p>Each student is issued a University email address (username@pitt.edu) upon
                      admission. This email address may be used by the University for official
                      communication with students. Students are expected to read email sent to this
@@ -326,8 +257,6 @@
 
          <!--  <div type="resources"><head>outside resources, fun stuff of use or interest?</head></div>-->
 
-
-
    <div type="schedule">
     <div type="week" n="1">
         <div type="day">
@@ -335,10 +264,10 @@
                 <date when="2016-08-29">M 08-29</date>
             </head>
             <div type="inclass">
-                <p>. . . .</p>
+                <p>First Day</p>
             </div>
             <div type="assign">
-                <p>. . . .</p>
+             
             </div>
         </div>
         <div type="day">
@@ -346,7 +275,7 @@
                 <date when="2016-08-31">W 08-31</date>
             </head>
             <div type="inclass">
-                <p>. . . .</p>
+                <p>Start <title level="m">Beowulf</title>: pp. 3-22 (to Celebration at Heorot); + intro pages: “Old English Language and Poetics” pp. xv-xxii, part of Translator’s Introduction: “About This Translation” pp. xxxii-xxxviii.</p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -368,7 +297,7 @@
                 <date when="2016-09-07">W 09-07</date>
             </head>
             <div type="inclass">
-                <p>. . . .</p>
+                <p>Finish <title level="m">Beowulf</title>; In the Beowulf text, read “Grettir the Strong and the Troll Woman,” pp. 86-89, plus, excerpt from Tolkien’s “Beowulf: The Monsters and the Critics” pp. 124-130 (starting with “Beowulf is not an actual picture. . .”)</p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -381,7 +310,7 @@
                 <date when="2016-09-12">M 09-12</date>
             </head>
             <div type="inclass">
-                <p>. . . .</p>
+                <p>Tolkien, <title level="m">LoTR</title> Part 1: The Fellowship of the Ring, Prologue, pp. 1-15; Book 1 Chs. 1-3, pp. 21-83.</p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -392,7 +321,7 @@
                 <date when="2016-09-14">W 09-14</date>
             </head>
             <div type="inclass">
-                <p>. . . .</p>
+                <p>LoTR: Fellowship, Book 1 Chs.4-7, pp. 84-131</p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -405,10 +334,10 @@
                 <date when="2016-09-19">M 09-19</date>
             </head>
             <div type="inclass">
-                <p>. . . .</p>
+                <p>LoTR: Fellowship, Finish Book 1 (Chs. 8-12), pp. 132-209</p>
             </div>
             <div type="assign">
-                <p>. . . .</p>
+                <p></p>
             </div>
         </div>
         <div type="day">
@@ -416,7 +345,8 @@
                 <date when="2016-09-21">W 09-21</date>
             </head>
             <div type="inclass">
-                <p>. . . .</p>
+                <p>LoTR: Fellowship, through Book 2, Ch. 4; pp. 210-312
+                <note>entrance to the mines of Moria</note></p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -429,10 +359,13 @@
                 <date when="2016-09-26">M 09-26</date>
             </head>
             <div type="inclass">
-                <p>. . . .</p>
+                <p>Lord of the Rings Online Event: <hi rend="em">Meet in computer lab classroom </hi>(Details TBA)
+                <note>TEI Conference</note></p>
             </div>
             <div type="assign">
-                <p>. . . .</p>
+                <p>. . . .
+                    <note>TEI Conference</note>
+                </p>
             </div>
         </div>
         <div type="day">
@@ -440,7 +373,9 @@
                 <date when="2016-09-28">W 09-28</date>
             </head>
             <div type="inclass">
-                <p>. . . .</p>
+                <p>Lord of the Rings Online Event: Meet in computer lab classroom (Details TBA)
+                    <note>TEI Conference</note>
+                </p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -536,7 +471,7 @@
                 <date when="2016-10-24">M 10-24</date>
             </head>
             <div type="inclass">
-                <p>. . . .</p>
+                <p><title level="m">Tolkien Reader</title>: Tree and Leaf: “On Fairy Stories” and “Leaf by Niggle”, pp. 31-120.</p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -547,7 +482,8 @@
                 <date when="2016-10-26">W 10-26</date>
             </head>
             <div type="inclass">
-                <p>. . . .</p>
+                <p>In <title level="m">Tolkien Reader</title>: “Leaf by Niggle”, and in <title level="m">Sir Gawain / Pearl / Sir Orfeo</title>: “Sir Orfeo”, pp. 169-190.</p>
+    
             </div>
             <div type="assign">
                 <p>. . . .</p>
