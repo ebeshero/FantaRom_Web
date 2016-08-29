@@ -310,7 +310,7 @@
                 <date when="2016-09-12">M 09-12</date>
             </head>
             <div type="inclass">
-                <p>Tolkien, <title level="m">LoTR</title> Part 1: The Fellowship of the Ring, Prologue, pp. 1-15; Book 1 Chs. 1-3, pp. 21-83.</p>
+                <p>Tolkien, <title level="m">LoTR</title> Part 1: <title level="m">The Fellowship of the Ring</title>, Prologue, pp. 1-15; Book 1 Chs. 1-3, pp. 21-83.</p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -321,7 +321,7 @@
                 <date when="2016-09-14">W 09-14</date>
             </head>
             <div type="inclass">
-                <p>LoTR: Fellowship, Book 1 Chs.4-7, pp. 84-131</p>
+                <p><title level="m">LoTR: Fellowship, Book 1</title> Chs.4-7, pp. 84-131</p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -334,7 +334,7 @@
                 <date when="2016-09-19">M 09-19</date>
             </head>
             <div type="inclass">
-                <p>LoTR: Fellowship, Finish Book 1 (Chs. 8-12), pp. 132-209</p>
+                <p><title level="m">LoTR: Fellowship</title>, Finish Book 1 (Chs. 8-12), pp. 132-209</p>
             </div>
             <div type="assign">
                 <p></p>
@@ -345,11 +345,11 @@
                 <date when="2016-09-21">W 09-21</date>
             </head>
             <div type="inclass">
-                <p>LoTR: Fellowship, through Book 2, Ch. 4; pp. 210-312
+                <p><title level="m">LoTR: Fellowship</title>, through Book 2 Ch. 4; pp. 210-312
                 <note>entrance to the mines of Moria</note></p>
             </div>
             <div type="assign">
-                <p>. . . .</p>
+                <p>Create a character in <title level="m">The Lord of the Rings Online</title> <hi rend="em">(LOTRO)</hi> (Detailed instructions TBA)</p>
             </div>
         </div>
     </div>
@@ -359,11 +359,11 @@
                 <date when="2016-09-26">M 09-26</date>
             </head>
             <div type="inclass">
-                <p>Lord of the Rings Online Event: <hi rend="em">Meet in computer lab classroom </hi>(Details TBA)
+                <p><title level="m">LOTRO</title> Event Part 1: <hi rend="em">Meet in computer lab classroom </hi>(Details TBA)
                 <note>TEI Conference</note></p>
             </div>
             <div type="assign">
-                <p>. . . .
+                <p><hi rend="em">LOTRO</hi>: Complete the introductory quests for your character before the class meeting today. Lord of the Rings Online (Detailed instructions TBA)
                     <note>TEI Conference</note>
                 </p>
             </div>
@@ -373,9 +373,10 @@
                 <date when="2016-09-28">W 09-28</date>
             </head>
             <div type="inclass">
-                <p>Lord of the Rings Online Event: Meet in computer lab classroom (Details TBA)
+               <list><item>LoTR: Finish <title level="m">Fellowship</title> + first chapter of <title level="m">The Two Towers</title>, Book 2 Chs. 5-10 through Book 3 Chapter 1, pp. 313-410</item>
+                    <item><title level="m">LOTRO</title> Event Part 2: Meet in computer lab classroom (Details TBA)</item></list>
                     <note>TEI Conference</note>
-                </p>
+                
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -388,10 +389,10 @@
                 <date when="2016-10-03">M 10-03</date>
             </head>
             <div type="inclass">
-                <p>. . . .</p>
+                <p>LoTR: <title level="m">The Two Towers</title>, Book 3 Chapters 2-7 (pp. 411-529) </p>
             </div>
             <div type="assign">
-                <p>. . . .</p>
+                <p><title level="m">LOTRO</title> paper due [TBD]</p>
             </div>
         </div>
         <div type="day">
@@ -399,7 +400,7 @@
                 <date when="2016-10-05">W 10-05</date>
             </head>
             <div type="inclass">
-                <p>. . . .</p>
+                <p><title level="m">Tolkien Reader</title>: Tree and Leaf: “On Fairy Stories”, pp. 31-99.</p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -412,10 +413,10 @@
                 <date when="2016-10-10">M 10-10</date>
             </head>
             <div type="inclass">
-                <p>. . . .</p>
+                <p>In <title level="m">Tolkien Reader</title>: “Leaf by Niggle” (pp. 100-120), and in <title level="m">Sir Gawain / Pearl / Sir Orfeo</title>: “Sir Orfeo”, pp. 169-190.</p>
             </div>
             <div type="assign">
-                <p>. . . .</p>
+                <p>“Tree and Leaf” assignment due [TBD]</p>
             </div>
         </div>
         <div type="day">
@@ -423,7 +424,7 @@
                 <date when="2016-10-12">W 10-12</date>
             </head>
             <div type="inclass">
-                <p>. . . .</p>
+                <p><hi rend="em">Midterm Exam</hi></p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -439,7 +440,7 @@
                <p><hi rend="em">Fall Break: Monday classes meet on Tuesday this week.</hi></p>
             </div>
             <div type="assign">
-                <p>. . . .</p>
+                <p></p>
             </div>
         </div>
        <div type="day">
@@ -447,7 +448,7 @@
              <date when="2016-10-18">T 10-18</date>
           </head>
           <div type="inclass">
-             <p>. . . .</p>
+              <p><title level="m">The Saga of the Volsungs</title>, pp. 35-73</p>
           </div>
           <div type="assign">
              <p>. . . .</p>
@@ -458,7 +459,7 @@
                 <date when="2016-10-19">W 10-19</date>
             </head>
             <div type="inclass">
-                <p>. . . .</p>
+                <p>Finish <title level="m">The Saga of the Volsungs</title> (to p. 109)</p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -471,7 +472,7 @@
                 <date when="2016-10-24">M 10-24</date>
             </head>
             <div type="inclass">
-                <p><title level="m">Tolkien Reader</title>: Tree and Leaf: “On Fairy Stories” and “Leaf by Niggle”, pp. 31-120.</p>
+                <p>start Ursula Le Guin, <title level="m">Tehanu</title> pp. 1-54</p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -482,7 +483,7 @@
                 <date when="2016-10-26">W 10-26</date>
             </head>
             <div type="inclass">
-                <p>In <title level="m">Tolkien Reader</title>: “Leaf by Niggle”, and in <title level="m">Sir Gawain / Pearl / Sir Orfeo</title>: “Sir Orfeo”, pp. 169-190.</p>
+                <p><title level="m">Tehanu</title> to p. 160</p>
     
             </div>
             <div type="assign">
@@ -496,7 +497,7 @@
                 <date when="2016-10-31">M 10-31</date>
             </head>
             <div type="inclass">
-                <p>. . . .</p>
+                <p>Finish <title level="m">Tehanu</title></p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -507,7 +508,7 @@
                 <date when="2016-11-02">W 11-02</date>
             </head>
             <div type="inclass">
-                <p>. . . .</p>
+                <p>Catherynne Valente, <title level="m">In the Night Garden</title> (The Book of the Steppe): pp. 1-60</p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -520,7 +521,7 @@
                 <date when="2016-11-07">M 11-07</date>
             </head>
             <div type="inclass">
-                <p>. . . .</p>
+                <p><title level="m">In the Night Garden</title>, pp. 61- 145</p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -531,7 +532,7 @@
                 <date when="2016-11-09">W 11-09</date>
             </head>
             <div type="inclass">
-                <p>. . . .</p>
+                <p><title level="m">In the Night Garden</title>, pp. 146-225 (end of The Book of the Steppe)</p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -544,7 +545,7 @@
                 <date when="2016-11-14">M 11-14</date>
             </head>
             <div type="inclass">
-                <p>. . . .</p>
+                <p>start Linda Nagata, <title level="m">Memory</title> Chs. 1-8 (pp. 9-107)</p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -555,7 +556,7 @@
                 <date when="2016-11-16">W 11-16</date>
             </head>
             <div type="inclass">
-                <p>. . . .</p>
+                <p><title level="m">Memory</title> through Ch 14 (to p. 175)</p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -568,7 +569,7 @@
                 <date when="2016-11-21">M 11-21</date>
             </head>
             <div type="inclass">
-                <p>. . . .</p>
+                <p><title level="m">Memory</title> through Ch 24 (to p. 273)</p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -592,7 +593,7 @@
                 <date when="2016-11-28">M 11-28</date>
             </head>
             <div type="inclass">
-                <p>. . . .</p>
+                <p>Finish <title level="m">Memory</title></p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -603,10 +604,10 @@
                 <date when="2016-11-30">W 11-30</date>
             </head>
             <div type="inclass">
-                <p>. . . .</p>
+                <p>Reader's Choice! [TBD]</p>
             </div>
             <div type="assign">
-                <p>. . . .</p>
+                <p><hi rend="em">Research Project due</hi></p>
             </div>
         </div>
     </div>
@@ -616,7 +617,7 @@
                 <date when="2016-12-05">M 12-05</date>
             </head>
             <div type="inclass">
-                <p>. . . .</p>
+                <p>Reader's Choice! [TBD]</p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -627,14 +628,14 @@
                 <date when="2016-12-07">W 12-07</date>
             </head>
             <div type="inclass">
-                <p>. . . .</p>
+                <p>Last day: Reader's Choice! [TBD]</p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
             </div>
         </div>
     </div>
-      <div type="week" n="16">
+      <div type="week">
          <head>Final Exam Period - December 12-17</head>
          <div type="day">
             <head><date when="2016-12-15">Final Exam Date: Thursday 12/15</date></head>

@@ -1,9 +1,9 @@
 @media screen{
 
-head {background-color:#DFBD79;
+head {background-color:#D4D2DD;
 }
 
-div#top {width:100%; background-color:#FFFDF5; padding:5px; border-top-left-radius: 45px; 
+div#top {width:100%; background-color:#E7EFD6; padding:5px; border-top-left-radius: 45px; 
 border-bottom-right-radius: 45px; font-family: arial, helvetica, sans-serif;}
 div#bannerImage {float:left}
 div#bannerImage img {width:150px}
@@ -23,7 +23,7 @@ div.boilerplate img {position: relative; top:7px; right: -2px }
 
 
 
-body {background-color:  #EDE3B8; color: #70003D; 
+body {background-color:  #D4D2DD; color: #70003D; 
                         font-family: "Times New Roman", Times, Georgia, serif; padding:15px; line-height:1.2em;}
 
 
@@ -31,18 +31,18 @@ div#main {line-height:1.2em;}
 div#heading {width:100%; position: relative}
 div#courseInfo {width:40%; float:left;}
 div#picture {width:60%; float:right;}
-img#goblinMarket {max-width:600px; width:100%; margin-left:2em; margin-bottom: 2em;}
-img#frontis {position: absolute; top: -30px; max-width:300px; width:100%; margin-left:2em; margin-bottom: 2em;}
+img#moriaGate {max-width:500px; width:100%; margin-left:5em; margin-bottom: 2em;}
+img#dragon {position: absolute; top: -60px; max-width:350px; width:100%; margin-left:2em; margin-bottom: 2em;}
 h1 {color:#0F046A; display:inline; letter-spacing:1.5px; font-size: 2.5em; text-align:center; padding: 2px;}
 
 
 
 h2 {color:#00056B; font-size: 1.3em; text-align:left; 
 }
-h3 {color:#990033;
+h3 {color:#573570;
  font-size: 1.1em; text-align:left; padding:3px
 }
-h4{color:#990033; display:inline-block; font-family:"Trebuchet MS", Helvetica, sans-serif; font-size: 1em; text-align:left;
+h4{color:#573570; display:inline-block; font-family:"Trebuchet MS", Helvetica, sans-serif; font-size: 1em; text-align:left;
     
 }
 
@@ -99,7 +99,7 @@ a:hover {color:#003197;}  /* mouse over link */
 a:active {color:#003197;}  /* selected link */
 
 table { border-collapse: collapse; width: 100%;
-border: 2px solid #BF9E7D;
+border: 1px solid #95A784;
 /*border: 0*/
 }
 
@@ -107,16 +107,16 @@ tr {border-collapse: collapse; border: 0}
 
 th
 { border-collapse: collapse;
-border: 1px solid  #BF9E7D;
-background-color: #E1C99B;
-padding: 1px;
-vertical-align:top;
+border: 1px solid  #95A784;
+background-color: #D2D6BB; /*#D2D6BB*/
+vertical-align:middle;
 }
 
 td 
 { border-collapse: collapse;
-border: 1px solid  #BF9E7D;
-padding: 7px;
+border: 1px solid  #95A784;
+background-color:#E7EFD6;
+padding: 3px;
 vertical-align:top;
 }
 
@@ -132,6 +132,7 @@ width:44%;
 th:nth-child(3), td:nth-child(3) {
 width:44%;  
 }
+ /*#B2A3BC*/
 
 /*table tr th, table tr td 
 { border-collapse: collapse;
@@ -180,7 +181,7 @@ div#main {line-height:1.1em;}
 div#heading {width:100%}
 div#courseInfo {width:40%; float:left;}
 div#picture {width:60%; float:right;}
-img#goblinMarket {max-width:300px; width:100%; margin-left:2em; margin-bottom: 2em;}
-img#frontis {max-width:200px; width:100%; margin-left:2em; margin-bottom: 2em;}
+img#moriaGate {max-width:300px; width:100%; margin-left:2em; margin-bottom: 2em;}
+img#dragon {max-width:200px; width:100%; margin-left:2em; margin-bottom: 2em;}
 }
 
