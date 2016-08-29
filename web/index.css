@@ -23,7 +23,7 @@ div.boilerplate img {position: relative; top:7px; right: -2px }
 
 
 
-body {background-color:  #D4D2DD; color: #70003D; 
+body {background-color:  #D4D2DD; color: black; /*color:#70003D*/
                         font-family: "Times New Roman", Times, Georgia, serif; padding:15px; line-height:1.2em;}
 
 
@@ -39,10 +39,10 @@ h1 {color:#0F046A; display:inline; letter-spacing:1.5px; font-size: 2.5em; text-
 
 h2 {color:#00056B; font-size: 1.3em; text-align:left; 
 }
-h3 {color:#573570;
+h3 {color:#33001a;
  font-size: 1.1em; text-align:left; padding:3px
 }
-h4{color:#573570; display:inline-block; font-family:"Trebuchet MS", Helvetica, sans-serif; font-size: 1em; text-align:left;
+h4{color:#33001a; display:inline-block; font-family:"Trebuchet MS", Helvetica, sans-serif; font-size: 1em; text-align:left;
     
 }
 
