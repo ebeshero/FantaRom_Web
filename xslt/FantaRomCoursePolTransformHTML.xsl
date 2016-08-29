@@ -90,7 +90,9 @@
                     
                     
              
-              
+                    <div id="pictureFooter">
+                        <img id="dragonSmaller" src="tolkienDragontransp.png" alt="Tolkien's drawing of a dragon"/>
+                    </div>
                 
                 </div>
                 <hr/>
