@@ -337,7 +337,12 @@
                 <p><title level="m">LoTR: Fellowship</title>, Finish Book 1 (Chs. 8-12), pp. 132-209</p>
             </div>
             <div type="assign">
-                <p></p>
+               <list>
+                   <item>First, create a free account with <title level="m">The Lord of the Rings Online</title> (LOTRO) by <ref target="http://signup.lotro.com/lotro.php">following this link</ref>, and choose a username and a password to log in. (Write down your username and password somewhere safe and convenient: you will need it for the next few weeks.)</item>
+                   <item>Go to Cassell Hall 210, and locate <title level="m">The Lord of the Rings Online</title> (LOTRO) installed on the computers there, and/or <ref target="https://www.lotro.com/en/game/download">download and install <title level="m">The Lord of the Rings Online</title></ref> on your own PC or Mac computer. (If you install this on a laptop computer, bring your laptop to class with you this week and next.) Note: the download and installation process takes some time: it can be running in the background for a few hours while you do other things.</item>
+               <item>Create a character (of any kind) and complete the necessary introductory quests that allow you to enter Middle Earth.</item>
+                   <item>By class time on Monday, be prepared to add your character's name to a list. (I will create a place to record this.) Your characters will receive invitations after next week to join a fellowship together with faculty-generated characters, so that we can travel safely together and tour the game environment.</item>
+               </list>
             </div>
         </div>
         <div type="day">
@@ -348,9 +353,7 @@
                 <p><title level="m">LoTR: Fellowship</title>, through Book 2 Ch. 4; pp. 210-312
                 <note>entrance to the mines of Moria</note></p>
             </div>
-            <div type="assign">
-                <p>Create a character in <title level="m">The Lord of the Rings Online</title> <hi rend="em">(LOTRO)</hi> (Detailed instructions TBA)</p>
-            </div>
+          <div type="assign"/>
         </div>
     </div>
     <div type="week" n="5">
