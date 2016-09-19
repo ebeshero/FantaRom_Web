@@ -310,7 +310,7 @@
                 <date when="2016-09-12">M 09-12</date>
             </head>
             <div type="inclass">
-                <p>Tolkien, <title level="m">LoTR</title> Part 1: <title level="m">The Fellowship of the Ring</title>, Prologue, pp. 1-15; Book 1 Chs. 1-3, pp. 21-83.</p>
+                <p>Tolkien, <title level="m">LoTR</title> Part 1: <title level="m">The Fellowship of the Ring</title>, Prologue, pp. 1-16; Book 1 Chs. 1-3, pp. 21-85.</p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -321,7 +321,7 @@
                 <date when="2016-09-14">W 09-14</date>
             </head>
             <div type="inclass">
-                <p><title level="m">LoTR: Fellowship, Book 1</title> Chs.4-7, pp. 84-131</p>
+                <p><title level="m">LoTR: Fellowship, Book 1</title> Chs.4-7, pp. 86-134</p>
             </div>
             <div type="assign">
                 <p><ref target="http://courseweb.pitt.edu">Short response paper due via CourseWeb.</ref>. (See CourseWeb for assignment.)</p>
@@ -334,7 +334,7 @@
                 <date when="2016-09-19">M 09-19</date>
             </head>
             <div type="inclass">
-                <p><title level="m">LoTR: Fellowship</title>, Finish Book 1 (Chs. 8-12), pp. 132-209</p>
+                <p><title level="m">LoTR: Fellowship</title>, Finish Book 1 (Chs. 8-12), pp. 135-215</p>
             </div>
             <div type="assign">
                <list>
@@ -351,10 +351,13 @@
                 <date when="2016-09-21">W 09-21</date>
             </head>
             <div type="inclass">
-                <p><title level="m">LoTR: Fellowship</title>, through Book 2 Ch. 4; pp. 210-312
+                <p><title level="m">LoTR: Fellowship</title>, through Book 2 Ch. 4; pp. 219-320
                 <note>entrance to the mines of Moria</note></p>
             </div>
-          <div type="assign"/>
+          <div type="assign">
+              <p><hi rend="em">LOTRO</hi>: <ref target="https://courseweb.pitt.edu">CourseWeb: Character List and Discussion Forum Assignment</ref>(discussing intro quests)
+              </p>
+          </div>
         </div>
     </div>
     <div type="week" n="5">
@@ -367,8 +370,7 @@
                 <note>TEI Conference</note></p>
             </div>
             <div type="assign">
-                <p><hi rend="em">LOTRO</hi>: Prep Assignment [TBA]
-                </p>
+                
             </div>
         </div>
         <div type="day">
@@ -376,7 +378,7 @@
                 <date when="2016-09-28">W 09-28</date>
             </head>
             <div type="inclass">
-               <list><item>LoTR: Finish <title level="m">Fellowship</title> + first chapter of <title level="m">The Two Towers</title>, Book 2 Chs. 5-10 through Book 3 Chapter 1, pp. 313-410</item>
+               <list><item>LoTR: Finish <title level="m">Fellowship</title> + first chapter of <title level="m">The Two Towers</title>, Book 2 Chs. 5-10 through Book 3 Chapter 1, pp. 321-420</item>
                    <item><title level="m">LOTRO</title> Event Part 2: <hi rend="em">Meet in computer lab classroom, Cassell Hall 210</hi></item></list>
                     <note>TEI Conference</note>
                 
@@ -392,7 +394,8 @@
                 <date when="2016-10-03">M 10-03</date>
             </head>
             <div type="inclass">
-                <p>LoTR: <title level="m">The Two Towers</title>, Book 3 Chapters 2-7 (pp. 411-529) </p>
+                <p>LoTR: <title level="m">The Two Towers</title>, Book 3 Chapters 2-7 (pp. 421-542) </p>
+                <note>through Helm's Deep</note>
             </div>
             <div type="assign">
                 <p><title level="m">LOTRO</title> paper due [TBD]</p>
