@@ -398,7 +398,7 @@
                 <note>through Helm's Deep</note>
             </div>
             <div type="assign">
-                <p><title level="m">LOTRO</title> paper due [TBD]</p>
+                
             </div>
         </div>
         <div type="day">
@@ -419,10 +419,10 @@
                 <date when="2016-10-10">M 10-10</date>
             </head>
             <div type="inclass">
-                <p>In <title level="m">Tolkien Reader</title>: “Leaf by Niggle” (pp. 100-120), and in <title level="m">Sir Gawain / Pearl / Sir Orfeo</title>: “Sir Orfeo”, pp. 169-190.</p>
+                <p>In <title level="m">Tolkien Reader</title>: “Leaf by Niggle” (pp. 100-120)</p>
             </div>
             <div type="assign">
-                <p>“Tree and Leaf” assignment due [TBD]</p>
+                <p>Tolkien assignment due</p>
             </div>
         </div>
         <div type="day">
@@ -430,7 +430,7 @@
                 <date when="2016-10-12">W 10-12</date>
             </head>
             <div type="inclass">
-                <p><hi rend="em">Midterm Exam</hi></p>
+                <p><title level="m">Sir Gawain / Pearl / Sir Orfeo</title>: “Sir Orfeo” (Tolkien's translation), pp. 169-190.</p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -454,7 +454,7 @@
              <date when="2016-10-18">T 10-18</date>
           </head>
           <div type="inclass">
-              <p><title level="m">The Saga of the Volsungs</title>, pp. 35-73</p>
+              <p>Review for Midterm></p>
           </div>
           <div type="assign">
              <p>. . . .</p>
@@ -465,7 +465,8 @@
                 <date when="2016-10-19">W 10-19</date>
             </head>
             <div type="inclass">
-                <p>Finish <title level="m">The Saga of the Volsungs</title> (to p. 109)</p>
+                <p><hi rend="em">Midterm Exam</hi></p>
+                
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -478,7 +479,7 @@
                 <date when="2016-10-24">M 10-24</date>
             </head>
             <div type="inclass">
-                <p>start Ursula Le Guin, <title level="m">Tehanu</title> pp. 1-54</p>
+                <p><title level="m">The Saga of the Volsungs</title>, pp. 35-73</p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -488,9 +489,7 @@
             <head>
                 <date when="2016-10-26">W 10-26</date>
             </head>
-            <div type="inclass">
-                <p><title level="m">Tehanu</title> to p. 160</p>
-    
+            <div type="inclass"><p>Finish <title level="m">The Saga of the Volsungs</title> (to p. 109)</p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -503,7 +502,7 @@
                 <date when="2016-10-31">M 10-31</date>
             </head>
             <div type="inclass">
-                <p>Finish <title level="m">Tehanu</title></p>
+                <p>start Ursula Le Guin, <title level="m">Tehanu</title> pp. 1-54</p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -514,7 +513,7 @@
                 <date when="2016-11-02">W 11-02</date>
             </head>
             <div type="inclass">
-                <p>Catherynne Valente, <title level="m">In the Night Garden</title> (The Book of the Steppe): pp. 1-60</p>
+                <p><title level="m">Tehanu</title> to p. 160</p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -526,8 +525,7 @@
             <head>
                 <date when="2016-11-07">M 11-07</date>
             </head>
-            <div type="inclass">
-                <p><title level="m">In the Night Garden</title>, pp. 61- 145</p>
+            <div type="inclass"><p>Finish <title level="m">Tehanu</title></p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -537,8 +535,7 @@
             <head>
                 <date when="2016-11-09">W 11-09</date>
             </head>
-            <div type="inclass">
-                <p><title level="m">In the Night Garden</title>, pp. 146-225 (end of The Book of the Steppe)</p>
+            <div type="inclass"><p>Catherynne Valente, <title level="m">In the Night Garden</title> (The Book of the Steppe): pp. 1-60</p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -550,8 +547,7 @@
             <head>
                 <date when="2016-11-14">M 11-14</date>
             </head>
-            <div type="inclass">
-                <p>start Linda Nagata, <title level="m">Memory</title> Chs. 1-8 (pp. 9-107)</p>
+            <div type="inclass"><p><title level="m">In the Night Garden</title>, pp. 61- 145</p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -561,8 +557,7 @@
             <head>
                 <date when="2016-11-16">W 11-16</date>
             </head>
-            <div type="inclass">
-                <p><title level="m">Memory</title> through Ch 14 (to p. 175)</p>
+            <div type="inclass"><p><title level="m">In the Night Garden</title>, pp. 146-225 (end of The Book of the Steppe)</p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -574,8 +569,7 @@
             <head>
                 <date when="2016-11-21">M 11-21</date>
             </head>
-            <div type="inclass">
-                <p><title level="m">Memory</title> through Ch 24 (to p. 273)</p>
+            <div type="inclass"><p>start Linda Nagata, <title level="m">Memory</title> Chs. 1-8 (pp. 9-107)</p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -598,8 +592,7 @@
             <head>
                 <date when="2016-11-28">M 11-28</date>
             </head>
-            <div type="inclass">
-                <p>Finish <title level="m">Memory</title></p>
+            <div type="inclass"><p><title level="m">Memory</title> through Ch 16</p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -610,7 +603,7 @@
                 <date when="2016-11-30">W 11-30</date>
             </head>
             <div type="inclass">
-                <p>Reader's Choice! [TBD]</p>
+                <p><title level="m">Memory</title> through Ch 24 (to p. 273)</p>
             </div>
             <div type="assign">
                 <p><hi rend="em">Research Project due</hi></p>
@@ -623,7 +616,7 @@
                 <date when="2016-12-05">M 12-05</date>
             </head>
             <div type="inclass">
-                <p>Reader's Choice! [TBD]</p>
+                <p>Finish <title level="m">Memory</title></p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
@@ -634,7 +627,7 @@
                 <date when="2016-12-07">W 12-07</date>
             </head>
             <div type="inclass">
-                <p>Last day: Reader's Choice! [TBD]</p>
+                <p>Last day: Catch-up/Review</p>
             </div>
             <div type="assign">
                 <p>. . . .</p>
